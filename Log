@@ -6,3 +6,5 @@ https://www.tutorialspoint.com/flask/flask_routing.htm
 Routing from python script to script
 https://exploreflask.com/en/latest/views.html
 https://flask.palletsprojects.com/en/1.1.x/patterns/packages/
+
+Made Changes to Authenticator, Index.html, and web_server.py
