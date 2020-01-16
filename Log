@@ -8,3 +8,6 @@ https://exploreflask.com/en/latest/views.html
 https://flask.palletsprojects.com/en/1.1.x/patterns/packages/
 
 Made Changes to Authenticator, Index.html, and web_server.py
+
+11 - 12
+Added more routes to Authenticar.py and web_server.py
