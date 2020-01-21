@@ -15,3 +15,8 @@ Added more routes to Authenticar.py and web_server.py
 01/18/2020
 9pm - 10pm
 https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+
+
+9 - 12 pm
+http://flask.palletsprojects.com/en/1.1.x/quickstart/#what-to-do-if-the-server-does-not-start
+Tried to figure out how to cancel out circular redundancy
